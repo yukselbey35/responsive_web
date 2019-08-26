@@ -59,6 +59,9 @@ header h1{
     padding: 11rem;
     padding-bottom: 0;
 }
+#brain{
+    padding: 11rem;
+}
 .btn { 
     display: inline-block;
     background:#333;
