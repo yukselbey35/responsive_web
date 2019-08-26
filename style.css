@@ -55,7 +55,7 @@ header .bg-image{
     z-index:-1;/*Send the pic back*/
 }
 header h1{
-    padding: 12rem;
+    padding: 11rem;
     padding-bottom: 0;
 }
 .btn { 
