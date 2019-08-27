@@ -81,7 +81,15 @@ header h1{
     background-color: #eaeaea;
     color:#333;
     padding: 3.2rem 0;
+    transition: opacity 0.3s linear;
 }
+
+#section-a:hover {
+	opacity: 0.8;
+	cursor: pointer;
+}
+
+
 /*section-b */
 #section-b{
     padding:2rem;
