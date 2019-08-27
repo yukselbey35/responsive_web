@@ -58,6 +58,12 @@ header .bg-image{
 header h1{
     padding: 11rem;
     padding-bottom: 0;
+
+
+#section-a:hover {
+	opacity: 0.8;
+	cursor: pointer;
+}
 }
 #brian{
     padding: 3rem;
@@ -89,11 +95,17 @@ header h1{
 	cursor: pointer;
 }
 
-
 /*section-b */
 #section-b{
     padding:2rem;
+    transition: opacity 0.3s linear;		
 }
+
+#section-b:hover {
+	opacity: 0.8;
+	cursor: pointer;
+}
+
 
 #section-b ul{
     list-style: none;
