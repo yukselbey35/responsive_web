@@ -61,7 +61,7 @@ header h1{
 
 
 #section-a:hover {
-	opacity: 0.8;
+	opacity: 0.6;
 	
 }
 }
@@ -75,7 +75,7 @@ header h1{
     border:1px solid #666;
     padding:1.6rem 3.2rem;
     margin:0.5rem 0;
-    transition:all 0.3s;
+    transition:all 0.4s;
 }
 
 .btn:hover {
@@ -87,22 +87,22 @@ header h1{
     background-color: #eaeaea;
     color:#333;
     padding: 3.2rem 0;
-    transition: opacity 0.3s linear;
+    transition: opacity 0.4s linear;
 }
 
 #section-a:hover {
-	opacity: 0.8;
+	opacity: 0.6;
 	
 }
 
 /*section-b */
 #section-b{
     padding:2rem;
-    transition: opacity 0.3s linear;		
+    transition: opacity 0.4s linear;		
 }
 
 #section-b:hover {
-	opacity: 0.8;
+	opacity: 0.6;
 	
 }
 
